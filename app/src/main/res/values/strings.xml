@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MnuApp</string>
+    <string name="titulo">NACA-MenuApp</string>
+    <string name="txt1Bien">Bienvenidos a mi aplicación Android con menú y navegador web.</string>
+    <string name="txt1Foot">Desarrollado por Nelson A. Cortés A. - 2021</string>
+    <string name="txtMenu">Menú Principal</string>
+    <string name="title_activity_reg">RegActivity</string>
+
+    <string name="txtReg">Registre sus datos</string>
+    <string name="txtRes">Datos registrados</string>
+
+    <string name="btnInicio">Inicio</string>
+    <string name="btnSalir">Salir</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_rslt">RsltActivity</string>
+</resources>
